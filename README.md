@@ -9,6 +9,7 @@ sure the directory follows a set of rules.
 --[ Installation ]---------------------------------------------------
 
 Compile predircheck.cpp
+
 g++ -std=c++17 -Wall -o predircheck predircheck.cpp
 
 Copy tur-predircheck to /glftpd/bin
