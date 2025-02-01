@@ -1,11 +1,13 @@
 
 --[ Intro ]----------------------------------------------------------
+
 Tur-Pedircheck rewritten in C++
 
 Tur-PreDirCheck. A script that runs before users create a dir to make
 sure the directory follows a set of rules.
 
 --[ Installation ]---------------------------------------------------
+
 Compile predircheck.cpp
 g++ -std=c++17 -Wall -o predircheck predircheck.cpp
 
