@@ -10,7 +10,7 @@ sure the directory follows a set of rules.
 
 Compile predircheck.cpp
 
-g++ -std=c++17 -Wall -o predircheck predircheck.cpp
+g++ -std=c++17 -Wall -o tur-predircheck tur-predircheck.cpp
 
 Copy tur-predircheck to /glftpd/bin
 
